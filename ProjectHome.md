@@ -1,0 +1,1 @@
+Make Git and TortoiseGit compatible with Git on Linux, by use UTF-8 as default.
